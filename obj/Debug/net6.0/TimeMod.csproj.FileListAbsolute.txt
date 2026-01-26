@@ -125,3 +125,4 @@ C:\Users\jayde\source\repos\TimeMod\obj\Debug\net6.0\TimeMod.dll
 C:\Users\jayde\source\repos\TimeMod\obj\Debug\net6.0\refint\TimeMod.dll
 C:\Users\jayde\source\repos\TimeMod\obj\Debug\net6.0\TimeMod.pdb
 C:\Users\jayde\source\repos\TimeMod\obj\Debug\net6.0\ref\TimeMod.dll
+C:\Users\jayde\source\repos\TimeMod\obj\Debug\net6.0\TimeMod.sourcelink.json

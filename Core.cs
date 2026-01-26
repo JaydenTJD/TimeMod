@@ -2,7 +2,7 @@
 using UnityEngine;
 
 [assembly: MelonInfo(typeof(TimeMod.Core), "TimeMod", "1.0.0", "jayde", null)]
-[assembly: MelonGame("Notional Games", "Beltmatic")]
+[assembly: MelonGame(developer:"Notional Games")]
 
 namespace TimeMod
 {
